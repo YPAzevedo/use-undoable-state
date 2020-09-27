@@ -1,2 +1,3 @@
 # use-undoable-state
-Created with CodeSandbox
+
+↩️ A hook to undo state changes.
